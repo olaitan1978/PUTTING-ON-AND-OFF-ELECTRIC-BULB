@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-color: wheat;
+}
+img{
+    width: 200px;
+    color: chartreuse;
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 150px;
+ 
+
+ }
+ #born{
+     display: none;
+ }
+
+button{
+    margin: 12px;
+    height: 100px;
+    width: 200px;
+    font-weight: bolder;
+    font-size: larger;
+    background-color: orange;
+    border: 10px solid black;
+    margin: 20px;
+}
+
+#con{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+  
+
+}
